@@ -1,5 +1,10 @@
 # CSE221 Lab Assignments
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Course](https://img.shields.io/badge/Course-CSE221-orange.svg)
+![Assignments](https://img.shields.io/badge/Assignments-7-red.svg)
+
 This repository contains all lab assignments for **CSE221 - Algorithms** course.
 
 ## Course Overview
@@ -62,10 +67,40 @@ Each assignment folder contains:
 - **Development Environment**: VS Code
 - **Version Control**: Git & GitHub
 
+## Getting Started
+
+### Prerequisites
+- Python 3.x
+- Any text editor or IDE (VS Code recommended)
+
+### Running the Code
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Nicgott99/CSE221-Lab-Assignments.git
+   ```
+2. Navigate to any assignment folder
+3. Run the Python files:
+   ```bash
+   python task1.py
+   ```
+
+## Contributing
+
+This repository contains academic assignments. While contributions are welcome for educational purposes, please respect academic integrity guidelines.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+
+These assignments are for educational purposes. If you're currently taking CSE221 or a similar course, please use this repository as a reference only and ensure you follow your institution's academic integrity policies.
+
 ## Author
 
 **Course**: CSE221 - Algorithms  
-**Repository**: Lab Assignments Collection
+**Repository**: Lab Assignments Collection  
+**GitHub**: [@Nicgott99](https://github.com/Nicgott99)
 
 ---
 
