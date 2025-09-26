@@ -32,7 +32,8 @@ Each assignment folder contains:
 - **Python Files** (`.py`) - Task implementations
 - **Input Files** (`.txt`) - Test case inputs
 - **Output Files** (`.txt`) - Expected/Generated outputs
-- **Documentation** (`.pdf/.docx`) - Problem explanations and requirements
+- **Question Documents** (`.docx`) - Official lab questions and problem statements
+- **Documentation** (`.pdf/.docx`) - Additional explanations and requirements
 
 ### Assignment Breakdown:
 
@@ -49,17 +50,19 @@ Each assignment folder contains:
 ## How to Use
 
 1. Navigate to the desired assignment folder
-2. Review the explanation document (PDF/DOCX) for problem statements
-3. Check input files for test cases
-4. Run Python files to see implementations
-5. Compare with output files for verification
+2. **Start with** `CSE221_LabX.docx` for official problem statements and requirements
+3. Review additional explanation documents (PDF/DOCX) if available
+4. Check input files for test cases
+5. Run Python files to see implementations
+6. Compare with output files for verification
 
 ## File Naming Convention
 
 - **Tasks**: `task1.py`, `task2.py`, etc. or `Task1(A).py`, `Task1(B).py`
 - **Inputs**: `input1.txt`, `input2.txt`, etc.
 - **Outputs**: `output1.txt`, `output2.txt`, etc.
-- **Documentation**: `Lab X explanation.pdf` or `EXPLANATION LABX.docx`
+- **Questions**: `CSE221_LabX.docx` - Official problem statements
+- **Documentation**: `Lab X explanation.pdf` or `EXPLANATION LABX.docx` - Additional explanations
 
 ## Technologies Used
 
